@@ -1,0 +1,17 @@
+body{
+    background-image:url("../image/testimage.jpg");
+}
+h2{
+    color:white;
+    text-align:center;
+    padding: 30px;
+    font-size:40px; 
+    background-color:red;
+}
+form{
+    text-align: center;
+    margin-top: 10%;
+}
+a{
+    color:black;
+}
